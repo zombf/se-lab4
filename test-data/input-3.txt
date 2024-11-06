@@ -1,0 +1,4 @@
+#Second fire should fail because no torpedos left
+GT4500,1,0,0,0
+TORPEDO,SINGLE  #fires primary bay
+TORPEDO,SINGLE  #no torpedo in decondory or priamry

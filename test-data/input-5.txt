@@ -1,0 +1,4 @@
+#fires both bays for the first time both fire for the second only the primary
+GT4500,2,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
