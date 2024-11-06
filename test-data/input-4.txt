@@ -1,0 +1,4 @@
+#Fires primary and fires it again bc no torpedos in secodary
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
